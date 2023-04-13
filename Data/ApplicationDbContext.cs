@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using TaskModel = ToDoList.Models.Task; // Add alias for your custom Task model
+using TaskModel = ToDoList.Models.ToDoTask;
 
 namespace ToDoList.Data
 {
